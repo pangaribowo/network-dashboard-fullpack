@@ -1,0 +1,12 @@
+{
+    "filterByStatus": "Filter by status",
+    "allDevices": "All Devices",
+    "online": "Online",
+    "warning": "Warning",
+    "offline": "Offline",
+    "bandwidthUsage": "Bandwidth Usage",
+    "deviceDistribution": "Device Distribution",
+    "connectedDevices": "Connected Devices",
+    "export": "Export",
+    "recentAlerts": "Recent Alerts"
+}

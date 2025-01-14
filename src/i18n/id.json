@@ -1,0 +1,12 @@
+{
+    "filterByStatus": "Filter berdasarkan status",
+    "allDevices": "Semua Perangkat",
+    "online": "Online",
+    "warning": "Peringatan",
+    "offline": "Offline",
+    "bandwidthUsage": "Penggunaan Bandwidth",
+    "deviceDistribution": "Distribusi Perangkat",
+    "connectedDevices": "Perangkat Terhubung",
+    "export": "Ekspor",
+    "recentAlerts": "Peringatan Terbaru"
+  }
